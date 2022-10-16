@@ -8,7 +8,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 python3 -m pip install requests bs4 
-git clone https://github.com/Xenzi-XN1/
+git clone https://github.com/Xenzi-XN1/NGEHEK
 cd NGEHEK
 ```
 # cara menggunakan nya
@@ -19,7 +19,7 @@ python NGEHEK.py
 + Crack Facebook no login
 
 # Hasil Dari Tools NGEHEK
-![img]()
+![img](https://github.com/Aldi098/NGEHEK/blob/main/IMG_20221016_190508.jpg)
 
 # Thanks to
 ```
