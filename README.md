@@ -1,5 +1,5 @@
 # NGEHEK
-#### NGEHEK adalah sebuah Tools Untuk Menggambil Cookie no login
+#### NGEHEK adalah sebuah Tools Untuk Ngehek akun Facebook
 
 # Bagaimana Cara Installnya?
 ### Buka Termux Kalian lalu ketik satu persatu seperti dibawah ini
